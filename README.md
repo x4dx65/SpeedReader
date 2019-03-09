@@ -1,3 +1,7 @@
+## Update
+
+For the latest version visit: https://github.com/brave/speedreader-paper-materials
+
 ## Dataset Structure
 
 In case of using the `preprocess` method for preparing training data, the dataset must be in the following format:
