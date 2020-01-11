@@ -1,6 +1,6 @@
 ## Update
 
-For the latest version visit: https://github.com/brave/speedreader-paper-materials
+For the latest version and the dataset visit: https://github.com/brave/speedreader-paper-materials
 
 ## Dataset Structure
 
